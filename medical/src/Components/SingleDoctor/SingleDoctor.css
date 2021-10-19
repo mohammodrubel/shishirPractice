@@ -1,0 +1,7 @@
+.comonSocial{
+    color:rgb(9, 9, 41);
+    transition: .4s;
+}
+.comonSocial:hover{
+    transform: rotate(360deg);
+}

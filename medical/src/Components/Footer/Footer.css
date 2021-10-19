@@ -1,0 +1,13 @@
+.footers{
+    margin: 20px 0px;
+    padding: 30px;
+    background-color: #090929;
+}
+.comonSocialMedia{
+    font-size: 25px;
+    color: tomato;
+    transition: .4s;
+}
+.comonSocialMedia:hover{
+    transform: rotate(360deg);
+}

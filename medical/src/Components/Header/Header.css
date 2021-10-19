@@ -1,0 +1,25 @@
+.comonNav{
+    margin: 0 15px;
+    font-size: 18px;
+    font-weight: 500;
+    color: white;
+    text-decoration: none;
+}
+.comonNav:hover{
+    color: white;
+}
+.background{
+    padding: 12px 0px;
+    background-color: rgb(9, 9, 41);
+}
+
+.loginlogout{
+    text-decoration: none;
+    color: white;
+    padding: 5px;
+}
+.imglogin{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+}

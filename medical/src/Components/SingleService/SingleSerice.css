@@ -1,0 +1,11 @@
+.serciceName{
+    color: tomato;
+}
+.comonLink{
+    padding: 8px;
+    margin: 10px;
+    text-decoration: none;
+    background-color: tomato;
+    color: white;
+    border-radius: 3px;
+}
